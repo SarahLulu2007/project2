@@ -1,0 +1,201 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+
+}
+
+body {
+    background-color: rgb(250, 242, 233);
+}
+
+#div_v {
+    width: 900px;
+    height: 500px;
+    margin-left: 300px;
+
+}
+
+iframe {
+    width: 680px;
+    height: 340px;
+
+}
+
+nav ul {
+    border-style: double;
+    border-width: 4px;
+    border-color: rgb(78, 66, 66);
+    background-color: rgb(222, 238, 233);
+    border-radius: 10px;
+}
+
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(109, 54, 54);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+
+}
+
+#ph1 {
+    margin-left: 40px;
+}
+
+p a {
+    font-family: monospace;
+    font-size: 18px;
+}
+
+#m_1 {
+    font-family: 'Times New Roman', Times, serif;
+
+    font-size: 55px;
+}
+
+#m_b {
+    background-color: rgb(255, 246, 255);
+}
+
+#m_p1 {
+    color: rgb(27, 26, 31);
+    text-align: center;
+    font-size: 25px;
+}
+
+#m_b1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    width: 6000px;
+    max-width: 750px;
+    margin: auto;
+}
+
+th {
+    color: rgb(18, 18, 78);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.td_0 {
+    color: rgb(58, 15, 15);
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.td1 {
+    color: rgb(113, 63, 136);
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.td2 {
+    color: rgb(13, 141, 30);
+    font-weight: bold;
+    font-size: 17px;
+
+}
+
+#f_b {
+    background-color: bisque;
+}
+
+nav ul li a:hover {
+    opacity: 20%;
+    animation-name: glowpluse;
+}
+
+/* image animation*/
+#bakar_img {
+    border-radius: 3px;
+    border: 2px solid blanchedalmond;
+    margin-left: 200px;
+    transform: translateX(65px);
+    border-radius: 10px;
+    width: 350px;
+    height: 400px;
+}
+
+.bakararticle { 
+font-size: 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: left;
+margin-left:40px;
+}
+
+#bimg {
+    margin-left: 300px;
+    color:rgb(110, 50, 50);
+    font-size: 17px;
+}
+
+#home_p1 {
+    margin-left: 40px;
+    margin-bottom: 100px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.places {
+    background-color: rgb(235, 198, 247);
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#ahramat {
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+#khan {
+    margin-left: 150px;
+    border-radius: 10px;
+
+}
+
+.food {
+    background-color: rgb(235, 198, 247);
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#kshari {
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+#foul {
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+.titel {
+    transform: translateX(65px);
+    font-size: 37px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img {
+    width: 400px;
+height: 400px;
+}
